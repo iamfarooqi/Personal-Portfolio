@@ -49,7 +49,7 @@ header::before {
 /* SECTION CSS */
 
 section {
-    border: 2px solid red;
+    /* border: 2px solid red; */
     text-align: center;
     /* height: 300px; */
     /* font-family: 'Bree Serif', serif; */
